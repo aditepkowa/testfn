@@ -1,0 +1,15 @@
+/Users/aditep/Desktop/Final/bin/Debug/net6.0/Final
+/Users/aditep/Desktop/Final/bin/Debug/net6.0/Final.deps.json
+/Users/aditep/Desktop/Final/bin/Debug/net6.0/Final.runtimeconfig.json
+/Users/aditep/Desktop/Final/bin/Debug/net6.0/Final.dll
+/Users/aditep/Desktop/Final/bin/Debug/net6.0/Final.pdb
+/Users/aditep/Desktop/Final/obj/Debug/net6.0/Final.csproj.AssemblyReference.cache
+/Users/aditep/Desktop/Final/obj/Debug/net6.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aditep/Desktop/Final/obj/Debug/net6.0/Final.AssemblyInfoInputs.cache
+/Users/aditep/Desktop/Final/obj/Debug/net6.0/Final.AssemblyInfo.cs
+/Users/aditep/Desktop/Final/obj/Debug/net6.0/Final.csproj.CoreCompileInputs.cache
+/Users/aditep/Desktop/Final/obj/Debug/net6.0/Final.dll
+/Users/aditep/Desktop/Final/obj/Debug/net6.0/refint/Final.dll
+/Users/aditep/Desktop/Final/obj/Debug/net6.0/Final.pdb
+/Users/aditep/Desktop/Final/obj/Debug/net6.0/Final.genruntimeconfig.cache
+/Users/aditep/Desktop/Final/obj/Debug/net6.0/ref/Final.dll
